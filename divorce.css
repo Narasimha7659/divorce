@@ -1,0 +1,355 @@
+*{
+    margin: 0;
+}
+.a sup{
+    font-size: 15px;
+}
+.a img{
+    width: 300px;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.a p{
+    font-size: 22px;
+    margin-top: 45px;
+    margin-left: -205px;
+    color: white;
+}
+.a {
+    display: flex;
+}
+.z{
+    background-color: blueviolet;
+    height: 100px;
+}
+.b{
+    padding-left: 650px;
+    margin-top: -60px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.b a{
+    color: white;
+}
+.b a:hover{
+    color: blue;
+}
+.b img{
+    width: 17px;
+    height: 15px;
+}
+.c h1{
+    margin-top: -700px;
+    font-size: 60px;
+    padding-left: 70px;
+}
+.c h2{
+    padding-left: 70px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.c button{
+    width: 250px;
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    font-size: 17px;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+.c button i{
+    padding-left: 80px;
+}
+.d button{
+    width: 250px;
+    height: 50px;
+    background-color: blueviolet;
+    color: white;
+    border-color: orangered;
+    font-size: 17px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.d button i{
+    padding-left: 50px;
+}
+.d button:hover{
+    background-color: orangered;
+}
+.e img{
+    width: 100%;
+    height: 800px;
+}
+.f p{
+    padding-top: 140px;
+    text-align: center;
+    font-size: 18px;
+}
+.g h1{
+    padding-top: 70px;
+    text-align: center;
+}
+.g p{
+    padding: 70px;
+    text-align: center;
+    font-size: 20px;
+}
+.h{
+    display: flex;
+}
+.card img{
+    width: 100px;
+    margin-left: 70px;
+}
+.card h5{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 25px;
+}
+.card p{
+    text-align: center;
+    padding-top: 20px;
+    width: 430px;
+    padding-left: 40px;
+}
+.card button{
+    margin-top: 80px;
+    margin-left: 20px;
+    width: 250px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
+.card button:hover{
+    background-color: orangered;
+}
+.card i{
+    padding-left: 120px;
+}
+.card1 button{
+    margin-top: 60px;
+}
+.h h2{
+    padding-left: 450px;
+    padding-top: 80px;
+}
+.card2 img{
+    width: 250px;
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.card2 p{
+    width: 400px;
+    padding-left: 110px;
+    padding-top: 30px;
+}
+.i h2{
+    text-align: center;
+    padding-top: 80px;
+}
+.i1{
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+.i1 img{
+    padding-left: 100px;
+}
+.i1 p{
+    padding-top: 50px;
+    margin-left: -150px;
+}
+.i1 a{
+    padding-left: 10px;
+    text-decoration: none;
+}
+.i2{
+    display: flex;
+    padding-top: 50px;
+}
+.i2 img{
+    padding-left: 100px;
+}
+.i2 p{
+    padding-top: 50px;
+    margin-left: -130px;
+}
+.i2 a{
+    padding-left: 20px;
+    text-decoration: none;
+}
+.j h2{
+    text-align: center;
+    padding-top: 100px;
+}
+.j1 img{
+    margin: 100px;
+}
+.j2 img{
+    width: 70px;
+    margin-top: -1000px;
+    margin-left: 600px;
+}
+.j2 p{
+    padding-left: 100px;
+    margin-top: -120px;
+    font-size: 12px;
+}
+.k{
+    display: flex;
+    justify-content: space-around;
+    background-color: orangered;
+    height: 150px;
+}
+.k button{
+    width: 250px;
+    height: 50px;
+    margin-top: 50px;
+    border: 3px solid white;
+    color: white;
+    background-color: orangered;
+}
+.k i{
+    padding-left: 50px;
+}
+.k h2{
+    padding-top: 40px;
+}
+.l h1{
+    padding-top: 100px;
+    width: 1200px;
+    font-size: 57px;
+    padding-left: 30px;
+}
+.l h2{
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 28px;
+}
+.m{
+    background-color: rgb(237, 224, 224);
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.m img{
+    padding-top: 50px;
+    padding-left: 75px;
+    padding-bottom: 50px;
+}
+.n img{
+    width: 250px;
+}
+.n a{
+    text-decoration: none;
+}
+.n{
+    padding-left: 35px;
+}
+.n p{
+    width: 300px;
+}
+.n10{
+    height: 60px;
+}.n11{
+    height: 70px;
+}
+.n12{
+    height: 50px;
+}
+.n9 img{
+    width: 120px;
+    margin-top: 450px;
+}
+.n1{
+    display: flex;
+}
+.n2{
+    line-height: 40px;
+    padding-left: 200PX;
+}
+.n2 a{
+    text-decoration: none;
+}
+.n3{
+    line-height: 40px;
+    padding-left: 70px;
+}
+.n3 a{
+    text-decoration: none;
+}
+.n4{
+    line-height: 40px;
+    padding-left: 70px;
+}
+.n4 a{
+    text-decoration: none;
+}
+.n5{
+    line-height: 40px;
+    padding-left: 70px;
+}
+.n5 a{
+    text-decoration: none;
+}
+.n6{
+    padding-top: 400px;
+    margin-left: -720PX;
+    width: 300px;
+}
+.n7{
+    padding-top: 400px;
+    width: 500px;
+    margin-left: 50px;
+}
+.n8{
+    padding-top: 600px;
+    margin-left: -300px;
+}
+.o h4{
+    padding-left: 630px;
+    margin-top: -330px;
+}
+.o p{
+    padding-left: 630px;
+}
+.p{
+    padding-left: 630px;
+}
+.p h6{
+    padding-top: 50px;
+}
+.q{
+    background-color: blue;
+    color: white;
+}
+.q h6{
+padding: 50px;
+}
+.q p{
+    padding-left: 400px;
+    margin-top: -80px;
+}
+.r{
+    display: flex;
+}
+.r1{
+    padding-left: 700px;
+    margin-top: -40px;
+}
+.r2{
+    padding-left: 30px;
+    margin-top: -40px;
+}
+.r3{
+    padding-left: 30px;
+    margin-top: -40px;
+}
+.r5{
+    padding-left: 30px;
+    margin-top: -40px;
+}
+.r4{
+    padding-left: 30px;
+    margin-top: -40px;
+}
